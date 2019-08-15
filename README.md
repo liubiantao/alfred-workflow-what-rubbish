@@ -1,7 +1,7 @@
 # alfred-workflow-what-rubbish for Alfred 3 
 上海垃圾分类查询
 
-## [DOWNLOAD](https://github.com/liubiantao/alfred-workflow-what-rubbish/blob/master/What%20Rubbish.alfredworkflow)
+## [DOWNLOAD](https://github.com/liubiantao/alfred-workflow-what-rubbish/raw/master/What%20Rubbish.alfredworkflow)
 
 ![demo](demo.gif)
 
